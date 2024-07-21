@@ -9,7 +9,8 @@ In the era of social media dominance, users crave platforms that offer seamless 
 >> 3. On posting, an AWS Lambda function will be triggered and the post will be stored in a DynamoDB table and the hashtags will be stored in a seperate DynamoDB Table. Thus, securing the integrity of posts and easily maintaining the hashtags for analysis.<br><br>
 >> If Trending Hashtags option is selected :<br>
 >> 2. You can either view the Top 5 or Top 10 hashtags that are trending.<br>
->> 3. On selecting the option, an AWS Lambda function is triggered which will fecth the rquired data.<br><br>
+>> 3. On selecting the option, an AWS Lambda function is triggered which will fecth the rquired data.<br>
+<br>
 
 > [!CAUTION]
 > <strong>Note : <br>
