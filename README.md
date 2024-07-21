@@ -2,7 +2,7 @@ In the era of social media dominance, users crave platforms that offer seamless 
 
 <strong>Tools used : Python, AWS Lambda, Dynamodb, Streamlit</strong><br><br>
 
-<h3>Basic Workflow :</h3><br>
+<h3>Basic Workflow :</h3>
 1. Either Post or Get the analysis on trending hashtags<br>
 >> If Post is selected:<br>
 >> 2. Compose and post your message with hashtags<br>
